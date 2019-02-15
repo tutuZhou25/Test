@@ -1,0 +1,15 @@
+header{ text-align: right;margin-top: 20px}
+main { text-align: center}
+footer{ text-align: center;color:#999;font-size: 12px}
+.A{color:black;margin: 5px;font-size: 13px}
+.B{ color: inherit}
+.one{ font-weight: bold;margin-right: 10px}
+.button_1{ background: #3489ff;color: white;border: none}
+.button_2{ background-color: #3385ff;color:#fff;width: 100px;height: 36px
+;border: 1px solid #2d78f4;box-sizing: content-box}
+main>input{ width:526px;height: 36px ;
+    border:1px solid #b8b8b8;margin-top: 20px;}
+main>img{ width: 270px;height: 129px;margin-top: 110px}
+img{width: 60px;
+    height: 60px;}
+*{ padding: 0px;margin: 0px}
